@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FoodiesapiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FoodiesapiApplication.class, args);
-	}
 
+	}
 }
